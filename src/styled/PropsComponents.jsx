@@ -10,7 +10,7 @@ function PropsComponents() {
   return (
     <div>
       <Button>Normal</Button>
-      <Button dark>Dark</Button>
+      <Button dark="true">Dark</Button>
     </div>
   );
 }
